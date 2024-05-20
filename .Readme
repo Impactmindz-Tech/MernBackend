@@ -1,0 +1,17 @@
+// this one for to add the product in user cart
+// http://localhost:3000/product/Addtocart/663c9ce6ee386d7eaae48be8
+
+//controller to get all the products  with sorting
+// http://localhost:3000/product?sort=-ProductId
+
+
+
+//update a specific part of a document
+//http://localhost:3000/product/Update/663c7c0985c77b76471a5f59
+
+
+//delete the product
+//http://localhost:3000/delete/663c7c0985c77b76471a5f59
+
+//softdelete
+//http://localhost:3000/product/softdelete?id=663c9ce6ee386d7eaae48be8&status=0
